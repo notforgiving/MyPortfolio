@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "home",
+      "faIcon": "fa-regular fa-user",
+      "locales": {
+        "ru": {
+          "title": "Главная"
+        }
+      }
+    },
+    {
+      "id": "background",
+      "faIcon": "fa-regular fa-clock",
+      "locales": {
+        "ru": {
+          "title": "Skills"
+        }
+      }
+    },
+    {
+      "id": "showcase",
+      "faIcon": "fa-regular fa-folder-open",
+      "locales": {
+        "ru": {
+          "title": "Образование"
+        }
+      }
+    },
+    {
+      "id": "more",
+      "faIcon": "fa-regular fa-object-ungroup",
+      "locales": {
+        "ru": {
+          "title": "Опыт работы"
+        }
+      }
+    }
+  ]
+}

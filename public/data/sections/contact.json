@@ -1,0 +1,82 @@
+{
+  "title": {
+    "locales": {
+      "ru": {
+        "title_short": "Связаться",
+        "title_short_nav": "Связаться",
+        "title_long_prefix": "Не стесняйтесь",
+        "title_long": "Свяжитесь {{со мной}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleContactForm",
+      "settings": {
+        "email_js_public_key": "b3cIU5ubEg7MAJna_",
+        "email_js_service_id": "service_uvipffu",
+        "email_js_template_id": "template_ss5mthe"
+      },
+      "locales": {
+        "en": {
+          "contact_thank_you_title": "{{Спасибо}} что написали!",
+          "contact_thank_you_body": "Ваше сообщение получено, и я скоро с вами свяжусь. Я ценю ваше время и с нетерпением жду встречи с вами!",
+          "contact_thank_you_footer": "Ответ будет отправлен на ваш электронный адрес: {{$email}}",
+          "title": "Отправить {{сообщение}}"
+        }
+      },
+      "items": null
+    },
+
+    {
+      "id": 2,
+      "component": "ArticleInfoList",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "locales": {
+        "ru": { "title": "Или если вы {{предпочитаете}}..." }
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-phone",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": "+7 (921) 181-6360",
+          "link": { "href": "tel:89211816360", "tooltipString": "Звонок мне" },
+          "locales": {
+            "ru": { "title": "Телефон" }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-envelope",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": "self_contained@list.ru",
+          "link": {
+            "href": "mailto:self_contained@list.ru",
+            "tooltipString": "Написать мне"
+          },
+          "locales": {
+            "ru": { "title": "E-mail" }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-brands fa-telegram",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": "Людмила",
+          "link": {
+            "href": "https://t.me/flesh_vzhuh",
+            "tooltipString": "open_website"
+          },
+          "locales": {
+            "ru": { "title": "Telegram" }
+          }
+        }
+      ]
+    }
+  ]
+}

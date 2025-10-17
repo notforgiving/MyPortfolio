@@ -1,0 +1,74 @@
+{
+  "developerSettings": {
+    "debugMode": false,
+    "fakeEmailRequests": false,
+    "stayOnThePreloaderScreen": false,
+    "version": "1.0.0"
+  },
+  "preloaderSettings": {
+    "enabled": true,
+    "title": "React <b>Портфолио</b>",
+    "subtitle": "Людмилы Ивлевой",
+    "logoOffset": {
+      "right": 14,
+      "top": 2,
+      "bottom": 0
+    }
+  },
+  "templateSettings": {
+    "animatedCursorEnabled": true,
+    "backgroundStyle": "animated",
+    "defaultLanguageId": "en",
+    "defaultThemeId": "dark",
+    "fullscreenEnabled": true,
+    "showSpinnerOnThemeChange": false
+  },
+  "supportedLanguages": [
+    {
+      "name": "Russian",
+      "id": "ru",
+      "flagUrl": "images/flags/ru.png"
+    }
+  ],
+  "supportedThemes": [
+    {
+      "id": "dark",
+      "icon": "fa-solid fa-moon",
+      "dark": true,
+      "locales": {
+        "ru": {
+          "name": "Темная тема"
+        }
+      }
+    },
+    {
+      "id": "light",
+      "icon": "fa-solid fa-sun",
+      "dark": false,
+      "locales": {
+        "en": {
+          "name": "Светлая тема"
+        }
+      }
+    }
+  ],
+  "consoleMessageForDevelopers": {
+    "title": "🖥️ Привет, коллега-разработчик!",
+    "items": [
+      {
+        "description": "Это шаблон с открытым исходным кодом, основанный на платформе React framework.",
+        "list": [],
+        "listStyle": "none"
+      },
+      {
+        "description": "Готова рассмотреть предложения о работе, вот мои контакты:",
+        "list": [
+          "Tg: https://t.me/flesh_vzhuh",
+          "email: self_contained@list.ru"
+        ],
+        "listStyle": "bulleted"
+      }
+    ]
+  },
+  "imagesToCache": []
+}

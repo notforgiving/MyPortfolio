@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "categoryId": "home",
+      "jsonPath": "/data/sections/about.json",
+      "faIcon": "fa-solid fa-address-card"
+    },
+    {
+      "id": "educations",
+      "categoryId": "showcase",
+      "jsonPath": "/data/sections/educations.json",
+      "faIcon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "id": "skills",
+      "categoryId": "background",
+      "jsonPath": "/data/sections/skills.json",
+      "faIcon": "fa-solid fa-tools"
+    },
+    {
+      "id": "experience",
+      "categoryId": "more",
+      "jsonPath": "/data/sections/experience.json",
+      "faIcon": "fa-solid fa-briefcase"
+    },
+    {
+      "id": "portfolio",
+      "categoryId": "more",
+      "jsonPath": "/data/sections/portfolio.json",
+      "faIcon": "fa-solid fa-folder-open"
+    },
+    {
+      "id": "contact",
+      "categoryId": "more",
+      "jsonPath": "/data/sections/contact.json",
+      "faIcon": "fa-solid fa-pen-to-square"
+    }
+  ]
+}

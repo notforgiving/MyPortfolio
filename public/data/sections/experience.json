@@ -1,0 +1,241 @@
+{
+  "title": {
+    "locales": {
+      "ru": {
+        "title_short": "Опыт работы",
+        "title_short_nav": "Опыт работы",
+        "title_long_prefix": "Краткое изложение моего",
+        "title_long": "Опыта {{работы}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "dateStart"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/pictures/edu1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateStart": { "year": 2015, "month": 4 },
+          "dateEnd": { "year": 2016, "month": 9 },
+          "locales": {
+            "ru": {
+              "title": "{{Инженер}} сектора материально-технического обеспечения",
+              "province": "",
+              "country": "",
+              "institution": "ФГБОУ ВО ГУМРФ имени адмирала С.О. Макарова",
+              "text": "",
+              "list": [
+                "Обрабатывала заявки пользователей/автоматизация и систематизация заявок",
+                "Создавала протоколов на списание",
+                "Автоматизировала создание протаколов"
+              ],
+              "tags": ["Excel"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "images/pictures/edu1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateStart": { "year": 2016, "month": 9 },
+          "dateEnd": { "year": 2017, "month": 10 },
+          "locales": {
+            "ru": {
+              "title": "{{Заведующей}} лабораторией информационно-образовательных технологий центра дистанционного обучения",
+              "province": "",
+              "country": "",
+              "institution": "ФГБОУ ВО ГУМРФ имени адмирала С.О. Макарова",
+              "text": "",
+              "list": [
+                "Администрировала LMS на платформе Moodle.",
+                "Дорабатывала LMS (установка новых модулей, доработка стилей CSS, поиск неисправностей в PHP)",
+                "Размещала контента на CMS - Wordpress.",
+                "Создала и оформила галерею с 3D экскурсиями (Bootstrap, Virtual Tour Pro)"
+              ],
+              "tags": [
+                "PHP8.0",
+                "mysql",
+                "moodle",
+                "excel",
+                "bootstrap",
+                "Virtual Tour Pro"
+              ]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "images/pictures/edu1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateStart": { "year": 2017, "month": 10 },
+          "dateEnd": { "year": 2019, "month": 11 },
+          "locales": {
+            "ru": {
+              "title": "{{Заместитель директора}} центра дистанционного обучения управления информатизации",
+              "province": "",
+              "country": "",
+              "institution": "ФГБОУ ВО ГУМРФ имени адмирала С.О. Макарова",
+              "text": "",
+              "list": [
+                "Размещала контент на сайты. Делала верстку, форматировала фотографии.",
+                "Писала скрипты для размещения youtube видео для самописной CMS сайта",
+                "Верстала письма Email для различных рассылок",
+                "Создавала системы подписки на новости и рассылки (+ Админ панель) (php + bootstrap)",
+                "Вносила изменения в различные скрипты, исправления багов. (js)",
+                "Работала с php скриптами, обрабатывающими xml выгрузки на сайт."
+              ],
+              "tags": [
+                "PHP8.0",
+                "mysql",
+                "moodle",
+                "excel",
+                "bootstrap",
+                "Virtual Tour Pro",
+                "vanila js",
+                "wordpress"
+              ]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "img": "images/pictures/edu1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "dateStart": { "year": 2019, "month": 11 },
+          "dateEnd": { "year": 2020, "month": 9 },
+          "locales": {
+            "ru": {
+              "title": "{{Директор}} центра дистанционного обучения управления информатизации",
+              "province": "",
+              "country": "",
+              "institution": "ФГБОУ ВО ГУМРФ имени адмирала С.О. Макарова",
+              "text": "",
+              "list": [
+                "Менеджмент разработки формы подачи заявок для архива (React, js, Ant Design)",
+                "Доработка телефонного справочника (js,html,scss,bootstrap)",
+                "Доработка в платформу LMS moodle. (php,js,html,css)",
+                "Разработка форм обратной связи для сбора информации на сайте университета (html,js,css)"
+              ],
+              "tags": [
+                "PHP8.0",
+                "mysql",
+                "moodle",
+                "excel",
+                "bootstrap",
+                "Virtual Tour Pro",
+                "vanila js",
+                "wordpress",
+                "scss"
+              ]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "img": "images/pictures/expir1.png",
+          "faIcon": "",
+          "faIconColors": {},
+          "dateStart": { "year": 2021, "month": 3 },
+          "dateEnd": { "year": 2021, "month": 4 },
+          "locales": {
+            "ru": {
+              "title": "{{Junior Frontend}} Developer",
+              "province": "",
+              "country": "",
+              "institution": "ООО \"Пулково-Сервис\"",
+              "text": "",
+              "list": [
+                "Дорабатывала компоненты основного продукта на react ",
+                "Меняла функционал существующих компонентов",
+                "Вносила изменения в стили (matirial UI)",
+                "Правила баги"
+              ],
+              "tags": [
+                "JavaScript",
+                "React",
+                "NodeJS",
+                "REST APIs"
+              ]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "img": "images/pictures/expir3.png",
+          "faIcon": "",
+          "faIconColors": {},
+          "dateStart": { "year": 2022, "month": 12 },
+          "dateEnd": { "year": 2022, "month": 12 },
+          "locales": {
+            "ru": {
+              "title": "{{Верстальщик}}",
+              "province": "",
+              "country": "",
+              "institution": "Fmedia / Leadrock",
+              "text": "",
+              "list": [
+                "Стягивала ленды",
+                "Заливала ленды платформу",
+                "Верстала ленды по макету",
+                "Написание кастомных скриптов для выполнения задач",
+                "Написание frontend части на react для генератора документов",
+                "Для автоматизации своей работы написала на React генератор полезных ссылок",
+                "Переписала главный сайт, сделала код более читаемым, разгребла скриты. Сделала перевод ленда без перезагрузки."
+              ],
+              "tags": [
+                "React",
+                "Scss",
+                "Js", 
+                "Figma"
+              ]
+            }
+          }
+        },
+        {
+          "id": 7,
+          "img": "images/pictures/expir2.png",
+          "faIcon": "",
+          "faIconColors": {},
+          "dateStart": { "year": 2022, "month": 4 },
+          "dateEnd": { "now": true },
+          "locales": {
+            "ru": {
+              "title": "{{Верстальщик}} на React",
+              "province": "",
+              "country": "",
+              "institution": "MediaSniper",
+              "text": "",
+              "list": [
+                "Верстаю новые React - компонентов, создаю базовый функционал, вывожу данные из Redux",
+                "Создаю стилизаци существующих компонентов",
+                "Оптимизирую работу страниц",
+                "Вношу изменения в структуру сайтов организации",
+                "Создаю динамические html креативов (баннеров) для рекламных компаний на React JS"
+              ],
+              "tags": [
+                "JavaScript",
+                "React",
+                "NodeJS",
+                "REST APIs",
+                "SCSS",
+                "HTML"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

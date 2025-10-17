@@ -1,0 +1,141 @@
+{
+  "title": {
+    "locales": {
+      "ru": {
+        "title_short": "Обо мне",
+        "title_short_nav": "Обо мне",
+        "title_long_prefix": "Привет...",
+        "title_long": "Я {{Люда!}}"
+      }
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleInlineList",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "display_as_list_if_width_is_lower_than": 380
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Санкт-Петербург",
+          "link": { "href": "", "tooltipString": "" },
+          "faIcon": "pi pi-map-marker"
+        },
+        {
+          "id": 2,
+          "label": "self_contained@list.ru",
+          "link": {
+            "href": "mailto:self_contained@list.ru",
+            "tooltipString": "Написать"
+          },
+          "faIcon": "fa-regular fa-envelope"
+        },
+        {
+          "id": 3,
+          "label": "@flesh_vzhuh",
+          "link": {
+            "href": "https://t.me/flesh_vzhuh",
+            "tooltipString": "see_on_github"
+          },
+          "faIcon": "fa-brands fa-telegram"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "component": "ArticleText",
+      "locales": {
+        "ru": { "title": "{{Немного}} обо мне..." }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/pictures/about-texts-image-1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "locales": {
+            "ru": {
+              "text": "<p>Я — начинающий {{frontend-разработчик}}, уверенно двигающийся от вёрстки к полноценной разработке интерфейсов на [[React и Next.js]]. Обожаю превращать дизайн в живые, быстрые и продуманные интерфейсы, писать чистый и понятный код, а также внедрять современные подходы во фронтенд-разработке. <br><br> Могу сверстать сайт любой сложности с нуля, разработать SPA или приложение на {{React / Next.js}}, реализовать авторизацию, типизировать проект с [[TypeScript]], внедрить Redux Toolkit, React Hook Form, React Select и многое другое. Постоянно совершенствуюсь, читаю документацию, изучаю новые технологии и стремлюсь стать сильным React-разработчиком.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleInfoList",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "locales": {
+        "en": { "title": "Личные {{интересы}}" }
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-snowflake",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": null,
+          "link": { "href": null, "tooltipString": null },
+          "locales": {
+            "ru": {
+              "title": "{{Сноубрдинг}}",
+              "text": "В свободное время очень люблю кататься на сноуборде. Езжу в чудесные Хибины."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-comments",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": null,
+          "link": { "href": null, "tooltipString": null },
+          "locales": {
+            "ru": {
+              "title": "{{AI}} помощник",
+              "text": "Изучаю работу искусственного инттелекта в рамках автоматизации моей работы и обучения новым навыкам."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-solid fa-money-bill-trend-up",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": null,
+          "link": { "href": null, "tooltipString": null },
+          "locales": {
+            "ru": {
+              "title": "{{Инвестиции}} & финансы",
+              "text": "Изучаю вопросы инвестирования и пишу свое приложение для отслеживания собственных инвестиций"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "faIcon": "fa-solid fa-music",
+          "faIconColors": { "bg": "", "fill": "" },
+          "label": null,
+          "link": { "href": null, "tooltipString": null },
+          "locales": {
+            "ru": {
+              "title": "{{Гитара}}",
+              "text": "Учусь играть на гитаре, освоиваю новые техники игры."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

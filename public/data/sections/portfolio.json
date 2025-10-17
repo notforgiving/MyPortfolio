@@ -1,0 +1,61 @@
+{
+  "title": {
+    "locales": {
+      "ru": {
+        "title_short": "Мои работы",
+        "title_short_nav": "Мои работы",
+        "title_long_prefix": "Взгляните на",
+        "title_long": "Мои {{работы}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "settings": {
+        "categorize_by": [],
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "categoryId": "",
+          "img": "images/pictures/project_1.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://advantage-digital-agency.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/AdvantageDigitalAgency",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/project_1_screen_1.png",
+              "images/pictures/project_1_screen_2.png",
+              "images/pictures/project_1_screen_3.png",
+              "images/pictures/project_1_screen_4.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_1.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "Advantage - digital agency",
+              "text": "Специализированное цифровое агентство, которому доверяют мировые лидеры. Будучи официальными партнёрами Google и TikTok, мы разрабатываем стратегии на основе данных, которые обеспечивают эффективность, соответствие требованиям и окупаемость инвестиций в ключевых вертикалях.",
+              "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
