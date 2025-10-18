@@ -54,6 +54,45 @@
               "tags": ["SCSS", "HTML", "JS"]
             }
           }
+        },
+        {
+          "id": 2,
+          "categoryId": "",
+          "img": "images/pictures/project_2.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://green-vit.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/GreenVit",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/project_2_screen_1.png",
+              "images/pictures/project_2_screen_2.png",
+              "images/pictures/project_2_screen_3.png",
+              "images/pictures/project_2_screen_4.png",
+              "images/pictures/project_2_screen_5.png",
+              "images/pictures/project_2_screen_6.png",
+              "images/pictures/project_2_screen_7.jpg"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_2.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "GreenVit",
+              "text": "Формулы с научным подходом и натуральными экстрактами — ежедневная поддержка организма, с реальным и доказанным эффектом.",
+              "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
         }
       ]
     }
