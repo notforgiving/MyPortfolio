@@ -131,6 +131,125 @@
               "tags": ["React", "TypeScript", "SCSS", "HTML"]
             }
           }
+        },
+        {
+          "id": 4,
+          "categoryId": "",
+          "img": "images/pictures/projects/project_4.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://berk-ltd-v2-0.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/Berk.LTD_v2.0",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_4_screen_1.png",
+              "images/pictures/projects/project_4_screen_2.png",
+              "images/pictures/projects/project_4_screen_3.png",
+              "images/pictures/projects/project_4_screen_4.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_4.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "Digital Boutique",
+              "text": "Лендинг под заказ",
+              "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "categoryId": "",
+          "img": "images/pictures/projects/project_5.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://sivif.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/Berk.LTD_v2.0",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_5_screen_1.png",
+              "images/pictures/projects/project_5_screen_2.png",
+              "images/pictures/projects/project_5_screen_3.png",
+              "images/pictures/projects/project_5_screen_4.png",
+              "images/pictures/projects/project_5_screen_5.png",
+              "images/pictures/projects/project_5_screen_6.png",
+              "images/pictures/projects/project_5_screen_7.png",
+              "images/pictures/projects/project_5_screen_8.png",
+              "images/pictures/projects/project_5_screen_9.png",
+              "images/pictures/projects/project_5_screen_10.png",
+              "images/pictures/projects/project_5_screen_11.png",
+              "images/pictures/projects/project_5_screen_12.png",
+              "images/pictures/projects/project_5_screen_13.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_5.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "СИ`ВИФ",
+              "text": "Лендинг для компании СИ'ВИФ. Блог о мультибрендовых ароматах, которые дарят эмоции, с чуткой обратной связью и советами от парфюмеров",
+              "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "categoryId": "",
+          "img": "images/pictures/projects/project_6.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://kenzo-pre-party.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/kenzoPreParty",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_6_screen_1.png",
+              "images/pictures/projects/project_6_screen_2.png",
+              "images/pictures/projects/project_6_screen_3.png",
+              "images/pictures/projects/project_6_screen_4.png",
+              "images/pictures/projects/project_6_screen_5.png",
+              "images/pictures/projects/project_6_screen_6.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_6.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "Kenzo Pre-party",
+              "text": "Лендинг для арбитражников",
+              "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
         }
       ]
     }
