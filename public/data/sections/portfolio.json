@@ -22,7 +22,7 @@
         {
           "id": 1,
           "categoryId": "",
-          "img": "images/pictures/project_1.png",
+          "img": "images/pictures/projects/project_1.webp",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -39,10 +39,10 @@
               }
             ],
             "screenshots": [
-              "images/pictures/project_1_screen_1.png",
-              "images/pictures/project_1_screen_2.png",
-              "images/pictures/project_1_screen_3.png",
-              "images/pictures/project_1_screen_4.png"
+              "images/pictures/projects/project_1_screen_1.webp",
+              "images/pictures/projects/project_1_screen_2.webp",
+              "images/pictures/projects/project_1_screen_3.webp",
+              "images/pictures/projects/project_1_screen_4.webp"
             ],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": "video/project_1.webm"
@@ -58,7 +58,7 @@
         {
           "id": 2,
           "categoryId": "",
-          "img": "images/pictures/project_2.png",
+          "img": "images/pictures/projects/project_2.webp",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
           "preview": {
@@ -75,13 +75,13 @@
               }
             ],
             "screenshots": [
-              "images/pictures/project_2_screen_1.png",
-              "images/pictures/project_2_screen_2.png",
-              "images/pictures/project_2_screen_3.png",
-              "images/pictures/project_2_screen_4.png",
-              "images/pictures/project_2_screen_5.png",
-              "images/pictures/project_2_screen_6.png",
-              "images/pictures/project_2_screen_7.jpg"
+              "images/pictures/projects/project_2_screen_1.webp",
+              "images/pictures/projects/project_2_screen_2.webp",
+              "images/pictures/projects/project_2_screen_3.webp",
+              "images/pictures/projects/project_2_screen_4.webp",
+              "images/pictures/projects/project_2_screen_5.webp",
+              "images/pictures/projects/project_2_screen_6.webp",
+              "images/pictures/projects/project_2_screen_7.webp"
             ],
             "screenshotsAspectRatio": "16:9",
             "youtubeVideo": "video/project_2.webm"
@@ -91,6 +91,44 @@
               "title": "GreenVit",
               "text": "Формулы с научным подходом и натуральными экстрактами — ежедневная поддержка организма, с реальным и доказанным эффектом.",
               "tags": ["SCSS", "HTML", "JS"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "categoryId": "",
+          "img": "images/pictures/projects/project_3.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://arbitrage-scanner-eight.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/arbitrage-scanner",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_3_screen_1.png",
+              "images/pictures/projects/project_3_screen_2.png",
+              "images/pictures/projects/project_3_screen_3.png",
+              "images/pictures/projects/project_3_screen_4.png",
+              "images/pictures/projects/project_3_screen_5.png",
+              "images/pictures/projects/project_3_screen_6.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_3.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "Arbitrage-scanner",
+              "text": "Находите скрытые возможности на основе onchain данных. И повторяйте успешные стратегии топ-трейдеров быстрее других.",
+              "tags": ["React", "TypeScript", "SCSS", "HTML"]
             }
           }
         }
