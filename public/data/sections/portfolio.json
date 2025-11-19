@@ -22,6 +22,41 @@
         {
           "id": 1,
           "categoryId": "",
+          "img": "images/pictures/projects/project_0.png",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://quanti-tink.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/QuantiTink",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_0_screen_1.png",
+              "images/pictures/projects/project_0_screen_2.png",
+              "images/pictures/projects/project_0_screen_3.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "#"
+          },
+          "locales": {
+            "ru": {
+              "title": "QuantiTink",
+              "text": "Приложения для контроля своих инвестиций в Т-банке. Позволяет оценить эффективность инвестиций. Проверь доходность каждого инструмента в отдельности. Увидеть календарь будущий начислений. А так же рассчитать доходность облигаций именно для вас перед покупкой их в портфель. В приложении вы сможете установить доли для каждого инструмента в портфеле и следить за ребалансировкой.",
+              "tags": ["React", "Firebase", "Redux"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "categoryId": "",
           "img": "images/pictures/projects/project_1.webp",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
@@ -56,7 +91,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "categoryId": "",
           "img": "images/pictures/projects/project_2.webp",
           "faIcon": "",
@@ -95,7 +130,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 4,
           "categoryId": "",
           "img": "images/pictures/projects/project_3.png",
           "faIcon": "",
@@ -133,7 +168,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 5,
           "categoryId": "",
           "img": "images/pictures/projects/project_4.png",
           "faIcon": "",
@@ -169,7 +204,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 6,
           "categoryId": "",
           "img": "images/pictures/projects/project_5.png",
           "faIcon": "",
@@ -214,7 +249,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 7,
           "categoryId": "",
           "img": "images/pictures/projects/project_6.png",
           "faIcon": "",
