@@ -100,6 +100,41 @@
         {
           "id": 3,
           "categoryId": "",
+          "img": "images/pictures/projects/project_8.svg",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://as-10942.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/AS-10942",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_0_screen_1.png",
+              "images/pictures/projects/project_0_screen_2.png",
+              "images/pictures/projects/project_0_screen_3.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": "video/project_8.webm"
+          },
+          "locales": {
+            "ru": {
+              "title": "Dmitry Turkevich",
+              "text": "Лендинг-портфолио Дмитрия Туркевича — предпринимателя, инвестора и ментора технологических стартапов. Проект представляет собой одностраничный сайт с адаптивной версткой, анимациями прокрутки и поддержкой мультиязычности.",
+              "tags": ["HTML5", "SCSS", "JavaScript", "WOW.js", "Node.js + Yarn", "Sharp, Chokidar"]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "categoryId": "",
           "img": "images/pictures/projects/project_1.webp",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
@@ -134,7 +169,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 5,
           "categoryId": "",
           "img": "images/pictures/projects/project_2.webp",
           "faIcon": "",
@@ -173,7 +208,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 6,
           "categoryId": "",
           "img": "images/pictures/projects/project_3.png",
           "faIcon": "",
@@ -211,7 +246,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 7,
           "categoryId": "",
           "img": "images/pictures/projects/project_4.png",
           "faIcon": "",
@@ -247,7 +282,7 @@
           }
         },
         {
-          "id": 7,
+          "id": 8,
           "categoryId": "",
           "img": "images/pictures/projects/project_5.png",
           "faIcon": "",
@@ -292,7 +327,7 @@
           }
         },
         {
-          "id": 8,
+          "id": 9,
           "categoryId": "",
           "img": "images/pictures/projects/project_6.png",
           "faIcon": "",
