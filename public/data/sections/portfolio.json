@@ -22,6 +22,49 @@
         {
           "id": 1,
           "categoryId": "",
+          "img": "images/pictures/projects/project_7.jpg",
+          "faIcon": "",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [
+              {
+                "href": "https://hair-salon-lemon.vercel.app/",
+                "tooltipString": "see_project",
+                "faIcon": "fa-solid fa-arrow-up-right-from-square"
+              },
+              {
+                "href": "https://github.com/notforgiving/HairSalon",
+                "tooltipString": "link_git",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+              "images/pictures/projects/project_7_screen_1.png",
+              "images/pictures/projects/project_7_screen_2.png",
+              "images/pictures/projects/project_7_screen_3.png",
+              "images/pictures/projects/project_7_screen_4.png",
+              "images/pictures/projects/project_7_screen_5.png"
+            ],
+            "screenshotsAspectRatio": "16:9",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "ru": {
+              "title": "HairSalon",
+              "text": "Полноценное решение для онлайн‑записи к парикмахерам, состоящее из веб‑приложения (Vite + React + Firebase) и Telegram‑бота (Node.js + Telegraf + Firebase Admin). Проект позволяет клиентам записываться к специалистам, администратору — управлять расписанием, мастерам — видеть свои слоты и клиентов.",
+              "tags": [
+                "TypeScript",
+                "react",
+                "vite",
+                "react-router-dom",
+                "tailwindcss"
+              ]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "categoryId": "",
           "img": "images/pictures/projects/project_0.png",
           "faIcon": "",
           "faIconColors": { "bg": "", "fill": "" },
@@ -44,7 +87,7 @@
               "images/pictures/projects/project_0_screen_3.png"
             ],
             "screenshotsAspectRatio": "16:9",
-            "youtubeVideo": "#"
+            "youtubeVideo": ""
           },
           "locales": {
             "ru": {
@@ -55,7 +98,7 @@
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "categoryId": "",
           "img": "images/pictures/projects/project_1.webp",
           "faIcon": "",
@@ -91,7 +134,7 @@
           }
         },
         {
-          "id": 3,
+          "id": 4,
           "categoryId": "",
           "img": "images/pictures/projects/project_2.webp",
           "faIcon": "",
@@ -130,7 +173,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 5,
           "categoryId": "",
           "img": "images/pictures/projects/project_3.png",
           "faIcon": "",
@@ -168,7 +211,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 6,
           "categoryId": "",
           "img": "images/pictures/projects/project_4.png",
           "faIcon": "",
@@ -204,7 +247,7 @@
           }
         },
         {
-          "id": 6,
+          "id": 7,
           "categoryId": "",
           "img": "images/pictures/projects/project_5.png",
           "faIcon": "",
@@ -249,7 +292,7 @@
           }
         },
         {
-          "id": 7,
+          "id": 8,
           "categoryId": "",
           "img": "images/pictures/projects/project_6.png",
           "faIcon": "",
